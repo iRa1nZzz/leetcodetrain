@@ -19,5 +19,5 @@
 | ------ | ------ | ------ | ------ |
 | 144 | [Binary Tree Preorder Traversal (前序遍历)](./problems/144.binarytreepreordertraversal.md) | Medium | [Go](./solutions/144/go/144.binarytreepreordertraversal.go)   [Javascript](./solutions/144/js/144.binarytreepreordertraversal.js) |
 | 94 | [Binary Tree Inorder Traversal (中序遍历)](./problems/94.binarytreeinordertraversal.md) | Medium | [Go](./solutions/94/binarytreeinordertraversal.go)   [Javascript](./solutions/94/binarytreeinordertraversal.js) |
-| 145 | [Binary Tree Postorder Traversal (后序遍历)](./problems/94.binarytreeinordertraversal.md) | Hard🔥 | [Go](./solutions/145/binarytreepostordertraversal.go)   [Javascript](./solutions/145/binarytreepostordertraversal.js) |
+| 145 | [Binary Tree Postorder Traversal (后序遍历)](./problems/145.binarytreepostordertraversal.md) | Hard🔥 | [Go](./solutions/145/binarytreepostordertraversal.go)   [Javascript](./solutions/145/binarytreepostordertraversal.js) |
 
