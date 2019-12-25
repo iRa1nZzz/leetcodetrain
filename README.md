@@ -11,4 +11,10 @@
 
 | 编号 | 名称 | 难度 | 代码
 | ------ | ------ | ------ | ------ |
-| 26 | [Remove Duplicates from Sorted Array](./problems/26.removeduplicatesfromsortedarray.md) | easy | [Go](./solutions/26/go/26.removeduplicatesfromsortedarray.go)   [Javascript](./solutions/26/javascript/26.removeduplicatesfromsortedarray.js) |
+| 26 | [Remove Duplicates from Sorted Array](./problems/26.removeduplicatesfromsortedarray.md) | Easy | [Go](./solutions/26/go/26.removeduplicatesfromsortedarray.go)   [Javascript](./solutions/26/javascript/26.removeduplicatesfromsortedarray.js) |
+
+### Binary Tree
+
+| 编号 | 名称 | 难度 | 代码
+| ------ | ------ | ------ | ------ |
+| 144 | [Binary Tree Preorder Traversal](./problems/144.binarytreepreordertraversal.md) | Medium | [Go](./solutions/144/go/144.binarytreepreordertraversal.go)   [Javascript](./solutions/144/js/144.binarytreepreordertraversal.js) |
