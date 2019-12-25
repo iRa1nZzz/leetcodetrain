@@ -1,0 +1,2 @@
+# leetcodetrain
+LeetCode training notes
