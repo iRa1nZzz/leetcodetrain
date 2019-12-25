@@ -6,24 +6,24 @@
  * }
  */
 function inorderTraversal (root) {
-    const mValues = [];
+    const mValues = []
     if (!root) {
-        return mValues;
+        return mValues
     }
     
-    traversal(mValues, root);
+    traversal(mValues, root)
     
-    return mValues;
+    return mValues
 }
 
 function traversal (mValues, node) {
     if (node.left) {
-        traversal(mValues, node.left);
+        traversal(mValues, node.left)
     }
     
-    mValues.push(node.val);
+    mValues.push(node.val)
     
     if (node.right) {
-        traversal(mValues, node.right);
+        traversal(mValues, node.right)
     }
 }
