@@ -1,7 +1,3 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 const removeDuplicates = (nums) => {
     let numLength = nums.length;
     if (numLength < 2) {
