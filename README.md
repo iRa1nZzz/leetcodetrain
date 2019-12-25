@@ -5,7 +5,7 @@
 
 > LeetCode 刷题分类记录
 
-![运行结果对比](./pics/LeetCode_logo_white.png)
+<img width="300" height="200" src="./pics/LeetCode_logo_white.png"/>
 
 ### Array
 
